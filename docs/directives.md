@@ -48,7 +48,7 @@ migration process.
 Example:
 
 ```hbs
-{{! @glint-nocheck: this whole teplate needs work }}
+{{! @glint-nocheck: this whole template needs work }}
 
 <MyComponent @stringArg={{123}} />
 
